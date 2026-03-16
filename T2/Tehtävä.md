@@ -26,6 +26,8 @@ Low Influence
   
 3. Muut yritykset
   
+# Walk through 4 questions stakeholder
+
 Valitsen itselleni kysymykset hotellin omistajistajalle  
   
 - Toimiiko tuote varmasti ja luotettavasti käytössä?  
